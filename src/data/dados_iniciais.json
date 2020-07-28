@@ -1,0 +1,161 @@
+{
+  "categorias": [
+    {
+      "titulo": "Recently added",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "red",
+      "link_extra": {
+        "text": "Last Seasons",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "New Year Special",
+          "url": "https://www.youtube.com/watch?v=EjiTgX6TR5U"
+        },
+        {
+          "titulo": "Season 11",
+          "url": "https://www.youtube.com/watch?v=FEc-OQ_oqDk"
+        },
+        {
+          "titulo": "Peter Capaldi",
+          "url": "https://www.youtube.com/watch?v=yAVaVX5Iewc"
+        },
+        {
+          "titulo": "Matt Smith",
+          "url": "https://www.youtube.com/watch?v=UOiSjoek-5Q"
+        },
+        {
+          "titulo": "David Tennant",
+          "url": "https://www.youtube.com/watch?v=U8R2eLeiUYE"
+        },
+        {
+          "titulo": "Cristopher Eccleston",
+          "url": "https://www.youtube.com/watch?v=2tzqwuIqRc4"
+        }
+      ]
+    },
+    {
+      "titulo": "Classic Who",
+      "cor": "orange",
+      "link_extra": {
+        "text": "The Classic Episodes",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "William Hartnell",
+          "url": "https://www.youtube.com/watch?v=7c-VfcHY51c"
+        },
+        {
+          "titulo": "Patrick T",
+          "url": "https://www.youtube.com/watch?v=Dvz4JQfSX44"
+        },
+        {
+          "titulo": "Jon Pertwee",
+          "url": "https://www.youtube.com/watch?v=cYwUy6cbJ7M"
+        },
+        {
+          "titulo": "Tom Baker",
+          "url": "https://www.youtube.com/watch?v=wmSAGJ9Pcd4"
+        }, 
+        {
+          "titulo": "Peter Davison",
+          "url": "https://www.youtube.com/watch?v=QR0zSzzU9tE"
+        },
+        {
+          "titulo": "Colin Baker",
+          "url": "https://www.youtube.com/watch?v=67ueD9SPLHM"
+        },
+        {
+          "titulo": "Silvester McCoy",
+          "url": "https://www.youtube.com/watch?v=dbcnHr01c38"
+        },
+        {
+          "titulo": "Paul McGann",
+          "url": "https://www.youtube.com/watch?v=xyIv0FrwHFo"
+        }
+      ]
+    },
+    {
+      "titulo": "Spin-offs",
+      "cor": "purple",
+      "link_extra": {
+        "text": "Universe Expansion",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Torchwood",
+          "url": "https://www.youtube.com/watch?v=ZVUhJSuu2hk"
+        },
+        {
+          "titulo": "Class",
+          "url": "https://www.youtube.com/watch?v=y7VsMnTUYwg"
+        },
+        {
+          "titulo": "Sarah Jane Adventures",
+          "url": "https://www.youtube.com/watch?v=SDjscQZKasY"
+        },
+        {
+          "titulo": "Doctor Who Confidential",
+          "url": "https://www.youtube.com/watch?v=IU_23jXUSEU"
+        }
+      ]
+    },
+    {
+      "titulo": "Specials",
+      "cor": "green",
+      "videos": [
+        {
+          "titulo": "Twice Upon a Time",
+          "url": "https://www.youtube.com/watch?v=YCkDXegqjR0"
+        },
+        {
+          "titulo": "The Return of Doctor Mysterio",
+          "url": "https://www.youtube.com/watch?v=kZ9OhIeC_aQ"
+        },
+        {
+          "titulo": "The Husbands of River Song",
+          "url": "https://www.youtube.com/watch?v=DScR0Q0H8wU"
+        },
+        {
+          "titulo": "Last Christmas",
+          "url": "https://www.youtube.com/watch?v=kAJqeMOJCsg"
+        },
+        {
+          "titulo": "The Snowmen",
+          "url": "https://www.youtube.com/watch?v=OHHTw-chJ64"
+        },
+        {
+          "titulo": "A Christmas Carol",
+          "url": "https://www.youtube.com/watch?v=tzhFrtv_5Dk"
+        },
+        {
+          "titulo": "The Doctor, the Widow and the Wardrobe",
+          "url": "https://www.youtube.com/watch?v=oMo8XanhNso"
+        },
+        {
+          "titulo": "The End of Time",
+          "url": "https://www.youtube.com/watch?v=i6CE5_MtOEM"
+        },
+        {
+          "titulo": "The Next Doctor",
+          "url": "https://www.youtube.com/watch?v=XVvdTiD2lxk"
+        },
+        {
+          "titulo": "Voyage of the Damned",
+          "url": "https://www.youtube.com/watch?v=1gPo2xh5ODg"
+        },
+        {
+          "titulo": "The Runaway Bride",
+          "url": "https://www.youtube.com/watch?v=DpkSOWJXrEk"
+        },
+        {
+          "titulo": "The Christmas Invasion",
+          "url": "https://www.youtube.com/watch?v=GNAHDUC8HYc"
+        }
+      ]
+    }
+  ]
+}
