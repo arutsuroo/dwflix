@@ -1,6 +1,8 @@
 import React, {useState} from 'react';
 import PageDefault from '../../../components/PageDefault';
 import { Link } from 'react-router-dom';
+import FormField from '../../../components/FormField';
+
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -72,6 +74,8 @@ function CadastroCategoria() {
       <button>
         Cadastrar
       </button>
+
+      </form>
 
         <ul>
           {categorias.map((categoria, indice) =>{
