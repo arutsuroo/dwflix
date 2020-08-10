@@ -1,16 +1,219 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria bacanudassa",
-            "cor": "#CBD1FF"
-        },
-        {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Outra categoria bacanudassa",
-            "cor": "#CBD1FF"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Recently added",
+      "cor": "red",
+      "link_extra": {
+        "text": "Last Seasons",
+        "url": "https://www.universowho.com/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Classic Who",
+      "cor": "orange",
+      "link_extra": {
+        "text": "The Classic Episodes",
+        "url": "https://www.universowho.com/doctor-who-classica/"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Spin-offs",
+      "cor": "purple",
+      "link_extra": {
+        "text": "Universe Expansion",
+        "url": "https://www.universowho.com/spin-offs/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Specials",
+      "cor": "green"
+    }
+  ],
+
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "New Year Special",
+      "url": "https://www.youtube.com/watch?v=EjiTgX6TR5U"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Season 11",
+      "url": "https://www.youtube.com/watch?v=FEc-OQ_oqDk"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Peter Capaldi",
+      "url": "https://www.youtube.com/watch?v=yAVaVX5Iewc"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Matt Smith",
+      "url": "https://www.youtube.com/watch?v=UOiSjoek-5Q"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "David Tennant",
+      "url": "https://www.youtube.com/watch?v=U8R2eLeiUYE"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Cristopher Eccleston",
+      "url": "https://www.youtube.com/watch?v=2tzqwuIqRc4"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "William Hartnell",
+      "url": "https://www.youtube.com/watch?v=7c-VfcHY51c"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Patrick T",
+      "url": "https://www.youtube.com/watch?v=Dvz4JQfSX44"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Jon Pertwee",
+      "url": "https://www.youtube.com/watch?v=cYwUy6cbJ7M"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Tom Baker",
+      "url": "https://www.youtube.com/watch?v=wmSAGJ9Pcd4"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Peter Davison",
+      "url": "https://www.youtube.com/watch?v=QR0zSzzU9tE"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Paul McGann",
+      "url": "https://www.youtube.com/watch?v=xyIv0FrwHFo"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Colin Baker",
+      "url": "https://www.youtube.com/watch?v=67ueD9SPLHM"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Silvester McCoy",
+      "url": "https://www.youtube.com/watch?v=dbcnHr01c38"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "Paul McGann",
+      "url": "https://www.youtube.com/watch?v=xyIv0FrwHFo"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Torchwood",
+      "url": "https://www.youtube.com/watch?v=ZVUhJSuu2hk"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Class",
+      "url": "https://www.youtube.com/watch?v=y7VsMnTUYwg"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Sarah Jane Adventures",
+      "url": "https://www.youtube.com/watch?v=SDjscQZKasY"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "Doctor Who Confidential",
+      "url": "https://www.youtube.com/watch?v=IU_23jXUSEU"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Twice Upon a Time",
+      "url": "https://www.youtube.com/watch?v=YCkDXegqjR0"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "The Return of Doctor Mysterio",
+      "url": "https://www.youtube.com/watch?v=kZ9OhIeC_aQ"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "The Husbands of River Song",
+      "url": "https://www.youtube.com/watch?v=DScR0Q0H8wU"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Last Christmas",
+      "url": "https://www.youtube.com/watch?v=kAJqeMOJCsg"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "The Snowmen",
+      "url": "https://www.youtube.com/watch?v=OHHTw-chJ64"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "A Christmas Carol",
+      "url": "https://www.youtube.com/watch?v=tzhFrtv_5Dk"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "The Doctor, the Widow and the Wardrobe",
+      "url": "https://www.youtube.com/watch?v=oMo8XanhNso"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "The End of Time",
+      "url": "https://www.youtube.com/watch?v=i6CE5_MtOEM"
+    },
+    {
+      "id": 28,
+      "categoriaId": 4,
+      "titulo": "Voyage of the Damned",
+      "url": "https://www.youtube.com/watch?v=1gPo2xh5ODg"
+    },
+    {
+      "id": 29,
+      "categoriaId": 4,
+      "titulo": "The Runaway Bride",
+      "url": "https://www.youtube.com/watch?v=DpkSOWJXrEk"
+    },
+    {
+      "id": 30,
+      "categoriaId": 4,
+      "titulo": "The Christmas Invasion",
+      "url": "https://www.youtube.com/watch?v=GNAHDUC8HYc"
+    }
+  ]
 }
